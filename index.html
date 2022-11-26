@@ -1,0 +1,592 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="UTF-8"> 
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="0" />
+<script type="text/javascript" src="js/jquery-2.0.3.js"> </script>
+
+
+<script>
+    document.write('<script type="text/javascript"  src="js/TeamMatch.js?dev=' + Math.floor(Math.random() * 100) + '"\><\/script>');
+    document.write('<script type="text/javascript"  src="js/giocatori.js?dev=' + Math.floor(Math.random() * 100) + '"\><\/script>');
+    document.write('<script type="text/javascript"  src="js/1WL.js?dev=' + Math.floor(Math.random() * 100) + '"\><\/script>');
+    document.write('<script type="text/javascript"  src="js/leghe.js?dev=' + Math.floor(Math.random() * 100) + '"\><\/script>');
+    document.write('<link rel="stylesheet" href="css/TID.css?dev=' + Math.floor(Math.random() * 100) + '"\><\/script>');
+</script>
+<!--
+<script>
+    document.write('<script type="text/javascript"  src="js/TeamMatch.js"\><\/script>');
+    document.write('<script type="text/javascript"  src="js/giocatori.js"\><\/script>');
+    document.write('<script type="text/javascript"  src="js/1WL.js"\><\/script>');
+    document.write('<script type="text/javascript"  src="js/leghe.js"\><\/script>');
+    document.write('<link rel="stylesheet" href="css/TID.css"\><\/script>');
+</script>
+-->
+
+</head>
+
+<!-- rilancio la pagina con un parametro per farla caricare se cambiata -->
+<script>
+    var query = window.location.search.substring(1);
+    if (!query)
+      window.location = 'index.html?dev=' + Math.floor(Math.random() * 100);
+    if (query == 'admin')
+    {
+        CAMPIONATO.isAdmin = true;
+    }   
+</script>
+    
+<body>
+    
+<!--                            INTESTAZIONE                                        -->   
+<main align=”center” class="frame-principale"> 
+<div class="intestazione-img">
+    <a href="https://www.chess.com/club/team-italia-doc"  target=”_blank”> <img height="125" width="125" src="img/TID.jpeg"></a>
+</div>
+<div>
+    <h1 class="intestazione-titolo">Team Match</h1>
+    <br>
+    <h1 class="intestazione-piede">Stagione 2023</h1>
+    <HR>
+</div>
+
+<!--                            Menu                                        -->   
+<spam class="menu" >
+    <select  onchange="window.location=this.options[this.selectedIndex].value">
+        <option value="">Terminati...</option>
+        <option value="https://teamitaliadoc.github.io/campionatoSquadre2021">Campionato a squadre 2021-22</option>    
+        <option value="https://teamitaliadoc.github.io/TrofeoPrimavera">Trofeo di Primavera</option>    
+        <option value="https://teamitaliadoc.github.io/CampionatoSocialeCategoria2020">Campionato categoria 2019</option>   
+        <option value="https://teamitaliadoc.github.io/battagliaFinale">Battaglia finale 2019</option>   
+        <option value="https://teamitaliadoc.github.io/Calvario2019">Calvario 2019</option>   
+        <option value="https://teamitaliadoc.github.io/campionatoSquadre2019/index.html">Campionato a squadre 2019</option>    
+        <option value="https://teamitaliadoc.github.io/Carosello2019/index.html">Carosello 2019</option>   
+        <option value="https://teamitaliadoc.github.io/campionatoSociale2019I/index.html">Campionato sociale 2019</option>    
+        <option value="https://teamitaliadoc.github.io/campionatoSociale2018/index.html">Campionato sociale 2018</option>    
+
+    </select>
+    </spam>
+    <spam class="menu" >
+    </spam>
+    <spam class="menu" >
+        <select  onchange="window.location=this.options[this.selectedIndex].value">
+            <option value="">Stagioni passate...</option>
+            <option value="https://teamitaliadoc.github.io/TeamMatch2022">Stagione 2022</option>    
+        </select>
+    </spam>
+    <spam class="menu" >
+        <a  class="menu" href="https://teamitaliadoc.github.io/hallOfFame/index.html?d">Hall of fame </a>
+     </spam>
+     <spam class="menu" >
+        <select  onchange="window.location=this.options[this.selectedIndex].value">
+            <option value="">Video...</option>
+            <option value="https://youtu.be/xCvnI2K0VN8">Inno</option>    
+            <option value="https://www.youtube.com/watch?v=9rjMwIiODsw">Compleanno 2019</option>    
+          </select>
+        </spam>
+        <HR>     
+
+
+<!--                            SEPARATORE                                      -->   
+<table align="left" width="950px" height="80px">
+<tr> <td><h1 class="intestazione-gironi">Team Match  </h1></td> </tr>
+<tr> <td><h1 class="intestazione-help">In questa pagina sono elencati tutti i Team Match della stagione 2023</h1>
+    <h1 class="intestazione-help">I risultati dei Matchs sono in tempo reale mentre le classifiche vengono aggiornate quando sono rese disponibili dal direttore del torneo    </h1>
+    <h1 class="intestazione-help">La classifica dei giocatori è valida per l'assegnazione dei migliori giocatori del Team per il 2023  </h1></td></tr>
+</table>
+
+<!--                            1WL - CUP U1700                                      -->   
+<table align="left" width="950px">
+    <tr> <td><h1 class="intestazione-gironi">1WL Classic CUP U1700 </h1></td> </tr>
+<tr> <td><h1 class="intestazione-help">Classic CUP è un torneo organizzato da 1 World League riservato agli Under 1700 diviso in più fasi. </h1>
+    <h1 class="intestazione-help">La prima è un torne roud robin in gruppi di 4 club, i primi 2 si qualificano alla fase successiva che inizia la quarta domenica di luglio.</h1>
+    <h1 class="intestazione-help">Squadre iscritte: 32.</h1>
+    </td></tr>        
+</table>
+<table  id="1WL-CUP-1700" class="classifica-giocatori">
+    <tr class="classifica-intestazione">
+        <td class="classifica-col1">Turno</td>  
+        <td class="giocatori-col1SEP">  </td>
+        <td class="classifica-lega-2">Data</td> 
+        <td class="classifica-lega-3">Avversario</td>  
+        <td class="classifica-lega-4">Giocatori</td>
+        <td class="classifica-lega-4">Punteggio</td>
+        <td class="classifica-lega-4">Risultato</td>
+        <td class="classifica-col1">Link</td>
+        </td>
+    </tr>
+</table>
+
+<!--                            TMLC                                      -- >   
+<table align="left" width="950px">
+    <tr> <td><h1 class="intestazione-gironi">Team Match Championship League </h1></td> </tr>
+    </td></tr>        
+</table>
+<table  id="TMLC" class="classifica-giocatori">
+    <tr class="classifica-intestazione">
+        <td class="classifica-col1">Turno</td>  
+        <td class="giocatori-col1SEP">  </td>
+        <td class="classifica-lega-2">Data</td> 
+        <td class="classifica-lega-3">Avversario</td> 
+        <td class="classifica-lega-4">Giocatori</td>
+        <td class="classifica-lega-4">Punteggio</td>
+        <td class="classifica-lega-4">Risultato</td>
+        <td class="classifica-col1">Link</td>
+        </td>
+    </tr>
+</table>
+
+<!--                            KTML   32                                   -- >   
+<table align="left" width="950px">
+    <tr> <td><h1 class="intestazione-gironi">Knockout Team Match League - 32</h1>
+    <h1 class="intestazione-help">Torneo ad eliminazione diretta</h1>
+    <h1 class="intestazione-help">Squadre iscritte: 32. Abbiamo vinto la prima giornata, siamo in attesa di sapere il prossimo avversario.</h1>
+    </td></tr>        
+</table>
+<table  id="KTML-32" class="classifica-giocatori">
+    <tr class="classifica-intestazione">
+        <td class="classifica-col1">Turno</td> 
+        <td class="giocatori-col1SEP">  </td>
+        <td class="classifica-lega-2">Data</td> 
+        <td class="classifica-lega-3">Avversario</td>  
+        <td class="classifica-lega-4">Giocatori</td>
+        <td class="classifica-lega-4">Punteggio</td>
+        <td class="classifica-lega-4">Risultato</td>
+        <td class="classifica-col1">Link</td>
+        </td>
+    </tr>
+</table>
+
+<!--                            KTML   33                                   -- >   
+<table align="left" width="950px">
+    <tr> <td><h1 class="intestazione-gironi">Knockout Team Match League - 33</h1>
+    <h1 class="intestazione-help">Torneo ad eliminazione diretta. Partite dai 10 ai 30 giocatori </h1>
+    <h1 class="intestazione-help">Squadre iscritte: 32.</h1>
+    </td></tr>        
+</table>
+<table  id="KTML-33" class="classifica-giocatori">
+    <tr class="classifica-intestazione">
+        <td class="classifica-col1">Turno</td>  
+        <td class="giocatori-col1SEP">  </td>
+        <td class="classifica-lega-2">Data</td> 
+        <td class="classifica-lega-3">Avversario</td>  
+        <td class="classifica-lega-4">Giocatori</td>
+        <td class="classifica-lega-4">Punteggio</td>
+        <td class="classifica-lega-4">Risultato</td>
+        <td class="classifica-col1">Link</td>
+        </td>
+    </tr>
+</table>
+
+<!--                            CCT  League                                    -- >   
+<table align="left" width="950px">
+    <tr> <td><h1 class="intestazione-gironi">Club Chess Tour - League Season 2 </h1></td> </tr>
+    </td></tr>        
+</table>
+<table  id="CCT" class="classifica-giocatori">
+    <tr class="classifica-intestazione">
+        <td class="classifica-col1">Turno</td>  
+        <td class="giocatori-col1SEP">  </td>
+        <td class="classifica-lega-2">Data</td> 
+        <td class="classifica-lega-3">Avversario</td> 
+        <td class="classifica-lega-4">Giocatori</td>
+        <td class="classifica-lega-4">Punteggio</td>
+        <td class="classifica-lega-4">Risultato</td>
+        <td class="classifica-col1">Link</td>
+        </td>
+    </tr>
+</table>
+
+<!--                            CCT  Center Files                                    -- >   
+<table align="left" width="950px">
+    <tr> <td><h1 class="intestazione-gironi">Club Chess Tour - Center Files</h1></td> </tr>
+    </td></tr>        
+</table>
+<table  id="CCT-CEN" class="classifica-giocatori">
+    <tr class="classifica-intestazione">
+        <td class="classifica-col1">Turno</td>  
+        <td class="giocatori-col1SEP">  </td>
+        <td class="classifica-lega-2">Data</td> 
+        <td class="classifica-lega-3">Avversario</td>  
+        <td class="classifica-lega-4">Giocatori</td>
+        <td class="classifica-lega-4">Punteggio</td>
+        <td class="classifica-lega-4">Risultato</td>
+        <td class="classifica-col1">Link</td>
+        </td>
+    </tr>
+</table>
+
+<!--                            NEW WAVE LEAGUE                                      -- >   
+<table align="left" width="950px">
+    <tr> <td><h1 class="intestazione-gironi">New Wave League </h1></td> </tr>
+    </td></tr>        
+</table>
+<table  id="NWL" class="classifica-giocatori">
+    <tr class="classifica-intestazione">
+        <td class="classifica-col1">Turno</td> 
+        <td class="giocatori-col1SEP">  </td>
+        <td class="classifica-lega-2">Data</td> 
+        <td class="classifica-lega-3">Avversario</td>  
+        <td class="classifica-lega-4">Giocatori</td>
+        <td class="classifica-lega-4">Punteggio</td>
+        <td class="classifica-lega-4">Risultato</td>
+        <td class="classifica-col1">Link</td>
+        </td>
+    </tr>
+</table>
+
+<!--                            ULF                                      -- >   
+<table align="left" width="950px">
+    <tr> <td><h1 class="intestazione-gironi">Ultra Flash League </h1></td> </tr>
+    </td></tr>        
+</table>
+<table  id="ULF" class="classifica-giocatori">
+    <tr class="classifica-intestazione">
+        <td class="classifica-col1">Turno</td>  
+        <td class="giocatori-col1SEP">  </td>
+        <td class="classifica-lega-2">Data</td> 
+        <td class="classifica-lega-3">Avversario</td>  
+        <td class="classifica-lega-4">Giocatori</td>
+        <td class="classifica-lega-4">Punteggio</td>
+        <td class="classifica-lega-4">Risultato</td>
+        <td class="classifica-col1">Link</td>
+        </td>
+    </tr>
+</table>
+
+<!--                            1 WL CLUB Championship                                      -- >   
+<table align="left" width="950px" height="80px">
+
+<tr> <td><h1 class="intestazione-gironi">1WL CLUB Championship  </h1></td> </tr>
+<tr> <td><h1 class="intestazione-help">La 1 WL CLUB Championship è un torneo organizzato da 1 World League diviso in leghe per fascia di elo </h1>
+    <h1 class="intestazione-help">Gli incontri si svolgono con un numero fisso di giocatori.</h1>
+        <h1 class="intestazione-help">Viene stilata un classifica generale e una per ogni lega.</h1>
+    </td></tr>        
+</table>
+
+<!--                            1WL - Open                                      -- >   
+<table align="left" width="950px">
+    <tr> <td> <h1 class="intestazione-lega">1WL 2022 OPEN25 </h1> 
+    <h1 class="intestazione-help">Sistema svizzero su 9 turni. Categora Open. Match di 25 giocatori</h1>
+    <h1 class="intestazione-help">Squadre iscritte: 26. Classifica al 24/03/2022: 13</h1>
+    </td></tr></table>
+<table  id="1WL-OPEN" class="classifica-giocatori">
+    <tr class="classifica-intestazione">
+        <td class="classifica-col1">Turno</td>  
+        <td class="giocatori-col1SEP">  </td>
+        <td class="classifica-lega-2">Data</td> 
+        <td class="classifica-lega-3">Avversario</td>  
+        <td class="classifica-lega-4">Giocatori</td>
+        <td class="classifica-lega-4">Punteggio</td>
+        <td class="classifica-lega-4">Risultato</td>
+        <td class="classifica-col1">Link</td>
+    </tr>
+
+</table>
+
+<!--                            1WL - 1800                                      -- >    
+<table align="left" width="950px">
+    <tr> <td> <h1 class="intestazione-lega">1WL 2022 U18-12 </h1> 
+    <h1 class="intestazione-help">Sistema svizzero su 9 turni. Categora Open. Match di 12 giocatori</h1>
+    <h1 class="intestazione-help">Squadre iscritte: 40. Classifica al 24/03/2022: 5</h1>
+    </td></tr></table>
+<table  id="1WL-1800" class="classifica-giocatori">
+    <tr class="classifica-intestazione">
+        <td class="classifica-col1">Turno</td> 
+        <td class="giocatori-col1SEP">  </td>
+        <td class="classifica-lega-2">Data</td> 
+        <td class="classifica-lega-3">Avversario</td>
+        <td class="classifica-lega-4">Giocatori</td>
+        <td class="classifica-lega-4">Punteggio</td>
+        <td class="classifica-lega-4">Risultato</td>
+        <td class="classifica-col1">Link</td>
+    </tr>
+
+</table>
+
+<!--                            1WL - 1600                                      -- >   
+<table align="left" width="950px">
+    <tr> <td> <h1 class="intestazione-lega">1WL 2022 U16-25 </h1> 
+    <h1 class="intestazione-help">Sistema svizzero su 9 turni. Categora Open. Match di 25 giocatori</h1>
+    <h1 class="intestazione-help">Squadre iscritte: 14. Classifica al 24/03/2022: 6</h1>
+    </td></tr></table>
+<table  id="1WL-1600" class="classifica-giocatori">
+    <tr class="classifica-intestazione">
+        <td class="classifica-col1">Turno</td>  
+        <td class="giocatori-col1SEP">  </td>
+        <td class="classifica-lega-2">Data</td> 
+        <td class="classifica-lega-3">Avversario</td> 
+        <td class="classifica-lega-4">Giocatori</td>
+        <td class="classifica-lega-4">Punteggio</td>
+        <td class="classifica-lega-4">Risultato</td>
+        <td class="classifica-col1">Link</td>
+    </tr>
+</table>
+
+<!--                            1WL - 1400                                      -- >   
+<table align="left" width="950px">
+    <tr> <td> <h1 class="intestazione-lega">1WL 2022 U14-25 </h1> 
+    <h1 class="intestazione-help">Sistema svizzero su 9 turni. Categora Open. Match di 25 giocatori</h1>
+    <h1 class="intestazione-help">Squadre iscritte: 8. Classifica al 15/03/2022: 3</h1>
+    </td></tr></table>
+<table  id="1WL-1400" class="classifica-giocatori">
+    <tr class="classifica-intestazione">
+        <td class="classifica-col1">Turno</td>  
+        <td class="giocatori-col1SEP">  </td>
+        <td class="classifica-lega-2">Data</td> 
+        <td class="classifica-lega-3">Avversario</td>  
+        <td class="classifica-lega-4">Giocatori</td>
+        <td class="classifica-lega-4">Punteggio</td>
+        <td class="classifica-lega-4">Risultato</td>
+        <td class="classifica-col1">Link</td>
+    </tr>
+</table>
+
+<!--                            1WL - 1200                                      - ->   
+<table align="left" width="950px">
+    <tr> <td> <h1 class="intestazione-lega">1WL 2022 U12-10+ </h1> 
+    <h1 class="intestazione-help">Sistema svizzero su 9 turni. Categora Open. Match con più di 10 giocatori</h1>
+    <h1 class="intestazione-help">Squadre iscritte: 12. Classifica al 21/02/2022: 1</h1>
+    </td></tr></table>
+<table  id="1WL-1200" class="classifica-giocatori">
+    <tr class="classifica-intestazione">
+        <td class="classifica-col1">Turno</td> 
+        <td class="giocatori-col1SEP">  </td>
+        <td class="classifica-lega-2">Data</td> 
+        <td class="classifica-lega-3">Avversario</td>  
+        <td class="classifica-lega-4">Giocatori</td>
+        <td class="classifica-lega-4">Punteggio</td>
+        <td class="classifica-lega-4">Risultato</td>
+        <td class="classifica-col1">Link</td>
+    </tr>
+</table>
+
+<!--                            1WL - 960                                      -- >   
+<table align="left" width="950px">
+    <tr> <td> <h1 class="intestazione-lega">1WL 2022 960-CHALLENGERS </h1> 
+    <h1 class="intestazione-help">Sistema svizzero su 9 turni. Categora Open. Schacchi 960</h1>
+    <h1 class="intestazione-help">Squadre iscritte: 22.</h1>
+    </td></tr></table>
+<table  id="1WL-960" class="classifica-giocatori">
+    <tr class="classifica-intestazione">
+        <td class="classifica-col1">Turno</td>  
+        <td class="giocatori-col1SEP">  </td>
+        <td class="classifica-lega-2">Data</td> 
+        <td class="classifica-lega-3">Avversario</td>  
+        <td class="classifica-lega-4">Giocatori</td>
+        <td class="classifica-lega-4">Punteggio</td>
+        <td class="classifica-lega-4">Risultato</td>
+        <td class="classifica-col1">Link</td>
+    </tr>
+</table>
+
+<table align="left" width="950px">
+    <tr> <td><h1 class="intestazione-gironi">1WL CLASSIC Championship  </h1></td> </tr>
+<tr> <td><h1 class="intestazione-help">La 1 WL CLUB Championship è un torneo organizzato da 1 World League in cui i club possono iscrivere diverse squadre </h1>
+    <h1 class="intestazione-help">Gli incontri si svolgono con su 7-8 scacchiere.</h1>
+        <h1 class="intestazione-help">Team Italia DOC partecipa con due squadre.</h1>
+    </td></tr>        
+</table>
+<!--                            1WL - OPEN A                                      -- >   
+<table align="left" width="950px">
+    <tr> <td> <h1 class="intestazione-lega">1WL 2022 OPEN-A </h1> 
+    <h1 class="intestazione-help">Squadre iscritte: 10.</h1>
+    </td></tr></table>
+<table  id="1WL-OPEN-A" class="classifica-giocatori">
+    <tr class="classifica-intestazione">
+        <td class="classifica-col1">Turno</td>  
+        <td class="giocatori-col1SEP">  </td>
+        <td class="classifica-lega-2">Data</td> 
+        <td class="classifica-lega-3">Avversario</td>  
+        <td class="classifica-lega-4">Giocatori</td>
+        <td class="classifica-lega-4">Punteggio</td>
+        <td class="classifica-lega-4">Risultato</td>
+        <td class="classifica-col1">Link</td>
+        </td>
+    </tr>
+</table>
+
+<!--                            1WL - OPEN D5                                      -- >   
+<table align="left" width="950px">
+    <tr> <td> <h1 class="intestazione-lega">1WL 2022 OPEN-D5 </h1> 
+    <h1 class="intestazione-help">Squadre iscritte: 8.</h1>
+    </td></tr></table>
+<table  id="1WL-OPEN-D5" class="classifica-giocatori">
+    <tr class="classifica-intestazione">
+        <td class="classifica-col1">Turno</td>  
+        <td class="giocatori-col1SEP">  </td>
+        <td class="classifica-lega-2">Data</td> 
+        <td class="classifica-lega-3">Avversario</td>  
+        <td class="classifica-lega-4">Giocatori</td>
+        <td class="classifica-lega-4">Punteggio</td>
+        <td class="classifica-lega-4">Risultato</td>
+        <td class="classifica-col1">Link</td>
+    </tr>
+</table>
+
+
+<!--                            1WL - Tour 30                                      -- >   
+<table align="left" width="950px">
+    <tr> <td><h1 class="intestazione-gironi">1WL Tour Series 30+ </h1></td> </tr>
+<tr> <td><h1 class="intestazione-help">Torneo open con 30 almeno 30 scacchiere. </h1>
+    <h1 class="intestazione-help">Squadre iscritte: 8.</h1>
+    </td></tr>        
+</table>
+<table  id="1WL-TOUR" class="classifica-giocatori">
+    <tr class="classifica-intestazione">
+        <td class="classifica-col1">Turno</td>  
+        <td class="giocatori-col1SEP">  </td>
+        <td class="classifica-lega-2">Data</td> 
+        <td class="classifica-lega-3">Avversario</td>  
+        <td class="classifica-lega-4">Giocatori</td>
+        <td class="classifica-lega-4">Punteggio</td>
+        <td class="classifica-lega-4">Risultato</td>
+        <td class="classifica-col1">Link</td>
+        </td>
+    </tr>
+</table>
+
+
+<!--                            1WL - U15  tournament                                    -- >   
+<table align="left" width="950px">
+    <tr> <td><h1 class="intestazione-gironi">1WL U15 tournament</h1></td> </tr>
+<tr> <td><h1 class="intestazione-help">U15 tournament è un torneo organizzato da 1 World League riservato agli Under 1500. </h1>
+    <h1 class="intestazione-help">Il numero minimo di partecipanti è 20 per match.</h1>
+    <h1 class="intestazione-help">Squadre iscritte: 10.</h1>
+    </td></tr>        
+</table>
+<table  id="1WL-U15" class="classifica-giocatori">
+    <tr class="classifica-intestazione">
+        <td class="classifica-col1">Turno</td>  
+        <td class="giocatori-col1SEP">  </td>
+        <td class="classifica-lega-2">Data</td> 
+        <td class="classifica-lega-3">Avversario</td>  
+        <td class="classifica-lega-4">Giocatori</td>
+        <td class="classifica-lega-4">Punteggio</td>
+        <td class="classifica-lega-4">Risultato</td>
+        <td class="classifica-col1">Link</td>
+        </td>
+    </tr>
+</table>
+
+<!--                            1WL - Swiss4All                                     -- >   
+<table align="left" width="950px">
+    <tr> <td><h1 class="intestazione-gironi">1WL Swiss4All </h1></td> </tr>
+<tr> <td><h1 class="intestazione-help">Swiss4All è un torneo di sistema svizzero su sette turni con un giorno per mossa.</h1>
+    <h1 class="intestazione-help">La prima è un torne roud robin in gruppi di 4 club, i primi 2 si qualificano alla fase successiva che inizia la quarta domenica di luglio.</h1>
+    <h1 class="intestazione-help">Squadre iscritte: 70.</h1>
+    </td></tr>        
+</table>
+<table  id="1WL-Swiss4All" class="classifica-giocatori">
+    <tr class="classifica-intestazione">
+        <td class="classifica-col1">Turno</td>  
+        <td class="giocatori-col1SEP">  </td>
+        <td class="classifica-lega-2">Data</td> 
+        <td class="classifica-lega-3">Avversario</td>  
+        <td class="classifica-lega-4">Giocatori</td>
+        <td class="classifica-lega-4">Punteggio</td>
+        <td class="classifica-lega-4">Risultato</td>
+        <td class="classifica-col1">Link</td>
+        </td>
+    </tr>
+</table>
+
+<!--                            1WL - 960 Classic - Open A                                     -- >   
+<table align="left" width="950px">
+    <tr> <td><h1 class="intestazione-gironi">1WL 960 Classic - Open A </h1></td> </tr>
+<tr> <td><h1 class="intestazione-help">Torneo di scacchi 960. Match con 10-11 giocatori</h1>
+    <h1 class="intestazione-help">Squadre iscritte: 6.</h1>
+    </td></tr>        
+</table>
+<table  id="1WL-960Classic" class="classifica-giocatori">
+    <tr class="classifica-intestazione">
+        <td class="classifica-col1">Turno</td>  
+        <td class="giocatori-col1SEP">  </td>
+        <td class="classifica-lega-2">Data</td> 
+        <td class="classifica-lega-3">Avversario</td>  
+        <td class="classifica-lega-4">Giocatori</td>
+        <td class="classifica-lega-4">Punteggio</td>
+        <td class="classifica-lega-4">Risultato</td>
+        <td class="classifica-col1">Link</td>
+        </td>
+    </tr>
+</table>
+
+<!--                            Amichevoli                                      -- >   
+<table align="left" width="950px">
+    <tr> <td><h1 class="intestazione-gironi">Amichevoli</h1></td> </tr>
+<tr> <td><h1 class="intestazione-help">Questo è l'elenco delle amichevoli giocate nel 2022. </h1>
+    </td></tr>        
+</table>
+<table  id="AMICI" class="classifica-giocatori">
+    <tr class="classifica-intestazione">
+        <td class="classifica-col1">Turno</td>  
+        <td class="giocatori-col1SEP">  </td>
+        <td class="classifica-lega-2">Data</td> 
+        <td class="classifica-lega-3">Avversario</td>  
+        <td class="classifica-lega-4">Giocatori</td>
+        <td class="classifica-lega-4">Punteggio</td>
+        <td class="classifica-lega-4">Risultato</td>
+        <td class="classifica-col1">Link</td>
+        </td>
+    </tr>
+</table>
+-->
+
+<!--                            CLASSIFICA                                      -->   
+<div>
+<table  id="classifica" class="classifica-tabella">
+    <tr class="classifica-intestazione">
+    </tr>
+    
+</table>
+
+</div>
+
+
+    
+<!--                            SEPARATORE                                      -->   
+<table align="left" width="960px" height="100px">
+    <tr> </tr>
+    <tr> </tr>
+<tr> <td><h1 class="intestazione-gironi">Migliori giocatori</h1></td> </tr>
+</table>
+<!--                            Giocatori                                      -->   
+<table  id="giocatori" class="classifica-giocatori">
+    <tr class="classifica-intestazione">
+        <td class="classifica-col1"></td> <!-- posizione -->
+        <td class="giocatori-col1SEP">  </td>
+        <td class="classifica-col2">Giocatore</td> 
+         <td class="classifica-col2">Punti</td>
+        <td class="classifica-col2">Risultati</td>
+    </tr>
+
+</table>
+
+         
+
+<!--                            IMMAGINE  -  LOGO   -->
+    <table  width="950px" height="50px" class="Powered">
+    <tr>
+        <td></td> 
+    </tr>
+</table>
+
+<table  width="950px"   class="Powered">
+
+    <tr>
+            <td align="left" width="950px">Realizzato da Sandro2116</td> 
+        </tr>
+    </table> 
+
+
+
+    <script type="text/javascript"> 
+        elabora();
+    </script>
+</main>
+
+</html>
+
