@@ -2,7 +2,7 @@
 
 // Classi CUP 1700
 matchs['WL-CUP-1700-1-1'] = {"id":"1437425", "lega":"1WL-CUP-1700", "giornata":1, "data":"27/11/2022", "daCaricare" : true};
-matchs['WL-CUP-1700-1-2'] = {"id":"", "lega":"1WL-CUP-1700", "giornata":2, "data":"25/12/2022", "daCaricare" : true};
+matchs['WL-CUP-1700-1-2'] = {"id":"1445391", "lega":"1WL-CUP-1700", "giornata":2, "data":"25/12/2022", "daCaricare" : true};
 matchs['WL-CUP-1700-1-3'] = {"id":"", "lega":"1WL-CUP-1700", "giornata":3, "data":"29/01/2023", "daCaricare" : true};
 matchs['WL-CUP-1700-1-4'] = {"id":"", "lega":"1WL-CUP-1700", "giornata":"Quarti", "data":"06/10/2022", "daCaricare" : true};
 matchs['WL-CUP-1700-1-5'] = {"id":"", "lega":"1WL-CUP-1700", "giornata":5, "data":"//2022", "daCaricare" : true};
