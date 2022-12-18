@@ -7,6 +7,17 @@ matchs['WL-CUP-1700-1-3'] = {"id":"", "lega":"1WL-CUP-1700", "giornata":3, "data
 matchs['WL-CUP-1700-1-4'] = {"id":"", "lega":"1WL-CUP-1700", "giornata":"Quarti", "data":"06/10/2022", "daCaricare" : true};
 matchs['WL-CUP-1700-1-5'] = {"id":"", "lega":"1WL-CUP-1700", "giornata":5, "data":"//2022", "daCaricare" : true};
 
+// 1WL-960   
+matchs['WL-960-1'] = {"id":"1447335", "lega":"1WL-960", "giornata":1, "data":"01/01/2023", "daCaricare" : true};
+matchs['WL-960-2'] = {"id":"", "lega":"1WL-960", "giornata":2, "data":"05/02/2023", "daCaricare" : true};
+matchs['WL-960-3'] = {"id":"", "lega":"1WL-960", "giornata":3, "data":"05/03/2023", "daCaricare" : true};
+matchs['WL-960-4'] = {"id":"", "lega":"1WL-960", "giornata":4, "data":"02/04/2023", "daCaricare" : true};
+matchs['WL-960-5'] = {"id":"", "lega":"1WL-960", "giornata":5, "data":"07/05/2023", "daCaricare" : true};
+matchs['WL-960-6'] = {"id":"", "lega":"1WL-960", "giornata":6, "data":"04/06/2023", "daCaricare" : true};
+matchs['WL-960-7'] = {"id":"", "lega":"1WL-960", "giornata":7, "data":"02/07/2023", "daCaricare" : true};
+matchs['WL-960-8'] = {"id":"", "lega":"1WL-960", "giornata":8, "data":"06/08/2023", "daCaricare" : true};
+matchs['WL-960-9'] = {"id":"", "lega":"1WL-960", "giornata":9, "data":"03/09/2023", "daCaricare" : true};
+
 /*
 // 1WL-OPEN
 matchs['WL-OPEN-1'] = {"id":"", "lega":"1WL-OPEN", "giornata":1, "data":"09/01/2022", "daCaricare" : true};
@@ -70,17 +81,6 @@ matchs['WL-1200-8'] = {"id":"", "lega":"1WL-1200", "giornata":8, "data":"10/07/2
 matchs['WL-1200-9'] = {"id":"", "lega":"1WL-1200", "giornata":9, "data":"11/08/2022", "daCaricare" : true};
 matchs['WL-1200-10'] = {"id":"", "lega":"1WL-1200", "giornata":10, "data":"14/08/2022", "daCaricare" : true};
 matchs['WL-1200-11'] = {"id":"", "lega":"1WL-1200", "giornata":11, "data":"11/09/2022", "daCaricare" : true};
-
-// 1WL-960   
-matchs['WL-960-1'] = {"id":"", "lega":"1WL-960", "giornata":1, "data":"02/01/2022", "daCaricare" : true};
-matchs['WL-960-2'] = {"id":"", "lega":"1WL-960", "giornata":2, "data":"06/02/2022", "daCaricare" : true};
-matchs['WL-960-3'] = {"id":"", "lega":"1WL-960", "giornata":3, "data":"06/03/2022", "daCaricare" : true};
-matchs['WL-960-4'] = {"id":"", "lega":"1WL-960", "giornata":4, "data":"03/04/2022", "daCaricare" : true};
-matchs['WL-960-5'] = {"id":"", "lega":"1WL-960", "giornata":5, "data":"01/05/2022", "daCaricare" : true};
-matchs['WL-960-6'] = {"id":"", "lega":"1WL-960", "giornata":6, "data":"01/06/2022", "daCaricare" : true};
-matchs['WL-960-7'] = {"id":"", "lega":"1WL-960", "giornata":7, "data":"03/07/2022", "daCaricare" : true};
-matchs['WL-960-8'] = {"id":"", "lega":"1WL-960", "giornata":8, "data":"07/08/2022", "daCaricare" : true};
-matchs['WL-960-9'] = {"id":"", "lega":"1WL-960", "giornata":9, "data":"4/09/2022", "daCaricare" : true};
 
 // OPEN-A
 matchs['WL-OPEN-A-1'] = {"id":"", "lega":"1WL-OPEN-A", "giornata":1, "data":"27/02/2022", "daCaricare" : true};
