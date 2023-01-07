@@ -69,7 +69,7 @@ matchs['WL-1400-8'] = {"id":"", "lega":"1WL-1400", "giornata":8, "data":"//2023"
 matchs['WL-1400-9'] = {"id":"", "lega":"1WL-1400", "giornata":9, "data":"//2023", "daCaricare" : true};
 
 // 1WL-1200
-matchs['WL-1200-1'] = {"id":"", "lega":"1WL-1200", "giornata":1, "data":"//2023", "daCaricare" : true};
+matchs['WL-1200-1'] = {"id":"1453817", "lega":"1WL-1200", "giornata":1, "data":"22/01/2023", "daCaricare" : true};
 matchs['WL-1200-2'] = {"id":"", "lega":"1WL-1200", "giornata":2, "data":"//2023", "daCaricare" : true};
 matchs['WL-1200-3'] = {"id":"", "lega":"1WL-1200", "giornata":3, "data":"//2023", "daCaricare" : true};
 matchs['WL-1200-4'] = {"id":"", "lega":"1WL-1200", "giornata":4, "data":"//2023", "daCaricare" : true};

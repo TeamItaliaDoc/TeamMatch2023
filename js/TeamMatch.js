@@ -231,7 +231,14 @@ function stampaTeams() {
                 var avatar = '';
                 console.log(index + ' - ' + matchs[index].avversarioName);
                 if (matchs[index].avversarioName != '' && avversari[matchs[index].avversarioName].avatar) {
-                    avatar = '<img class="classifica-avatar" src="' + avversari[matchs[index].avversarioName].avatar + '"><a style="color:black;text-decoration: none;font-weight: normal;" href="https://www.chess.com/club/' + matchs[index].nameUrl + '" target=”_blank”> ' +   matchs[index].avversarioName + '</a>';
+                    try {
+                        avatar = '<img class="classifica-avatar" src="' + avversari[matchs[index].avversarioName].avatar + '"><a style="color:black;text-decoration: none;font-weight: normal;" href="https://www.chess.com/club/' + matchs[index].nameUrl + '" target=”_blank”> ' +   matchs[index].avversarioName + '</a>';
+                    } catch(err) {
+                        console.log('AVATAR NON PRESENTE: ' + index + ' - ' + matchs[index].avversarioName);     
+                        console.log('AVATAR NON PRESENTE: ' + index + ' - ' + matchs[index].avversarioName);     
+                        console.log('AVATAR NON PRESENTE: ' + index + ' - ' + matchs[index].avversarioName);     
+                        console.log('AVATAR NON PRESENTE: ' + index + ' - ' + matchs[index].avversarioName);     
+                    }
                 }
                 var stRiga = '<tr class="classifica-giocatori">' +
                 '<td class="classifica-col1">' + matchs[index].giornata + '</td>  ' +
