@@ -7,7 +7,7 @@ matchs['KTML-35-4'] = {"id":"", "lega":"KTML-35", "giornata":5, "data":"//2022",
 
 //TMLC
 matchs['TMLC-1'] = {"id":"1448035", "lega":"TMLC", "giornata":1, "data":"01/01/2023", "daCaricare" : true};
-matchs['TMLC-2'] = {"id":"", "lega":"TMLC", "giornata":2, "data":"01/02/2023", "daCaricare" : true};
+matchs['TMLC-2'] = {"id":"1457633", "lega":"TMLC", "giornata":2, "data":"01/02/2023", "daCaricare" : true};
 matchs['TMLC-3'] = {"id":"", "lega":"TMLC", "giornata":3, "data":"01/03/2023", "daCaricare" : true};
 matchs['TMLC-4'] = {"id":"", "lega":"TMLC", "giornata":4, "data":"01/04/2023", "daCaricare" : true};  
 matchs['TMLC-5'] = {"id":"", "lega":"TMLC", "giornata":5, "data":"01/05/2023", "daCaricare" : true};
@@ -48,7 +48,7 @@ matchs['KTML-33-4'] = {"id":"", "lega":"KTML-33", "giornata":5, "data":"01/05/20
 //ULF
 matchs['ULF-1'] = {"id":"", "lega":"ULF", "giornata":1, "data":"07/02/2022", "daCaricare" : true};
 matchs['ULF-2'] = {"id":"", "lega":"ULF", "giornata":2, "data":"//2022", "daCaricare" : true};
-matchs['ULF-3'] = {"id":"", "lega":"ULF", "giornata":3, "data":"//2022", "daCaricare" : true};
+matchs['ULF-3'] = {"id":"", "lega":"ULF", "giornata":3, "data":"//2022", "d1453519aCaricare" : true};
 matchs['ULF-4'] = {"id":"", "lega":"ULF", "giornata":4, "data":"//2022", "daCaricare" : true};
 matchs['ULF-5'] = {"id":"", "lega":"ULF", "giornata":5, "data":"//2022", "daCaricare" : true};
 matchs['ULF-6'] = {"id":"", "lega":"ULF", "giornata":6, "data":"//2022", "daCaricare" : true};
@@ -71,7 +71,7 @@ matchs['NWL-9'] = {"id":"", "lega":"NWL", "giornata":9, "data":"//2022", "daCari
 //Amichevoli 
 matchs['AMICI-1'] = {"id":"1453519", "lega":"AMICI", "giornata":1, "data":"30/01/2023", "daCaricare" : true};
 matchs['AMICI-2'] = {"id":"1455153", "lega":"AMICI", "giornata":1, "data":"15/01/2023", "daCaricare" : true};
-matchs['AMICI-3'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2023", "daCaricare" : true};
+matchs['AMICI-3'] = {"id":"1458697", "lega":"AMICI", "giornata":1, "data":"09/02/2023", "daCaricare" : true};
 matchs['AMICI-4'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2023", "daCaricare" : true};
 matchs['AMICI-5'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2023", "daCaricare" : true};
 matchs['AMICI-6'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"", "//2023" : true};   

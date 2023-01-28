@@ -9,7 +9,7 @@ matchs['WL-CUP-1700-1-5'] = {"id":"", "lega":"1WL-CUP-1700", "giornata":5, "data
 
 // 1WL-960   
 matchs['WL-960-1'] = {"id":"1447335", "lega":"1WL-960", "giornata":1, "data":"01/01/2023", "daCaricare" : true};
-matchs['WL-960-2'] = {"id":"", "lega":"1WL-960", "giornata":2, "data":"05/02/2023", "daCaricare" : true};
+matchs['WL-960-2'] = {"id":"1458195", "lega":"1WL-960", "giornata":2, "data":"05/02/2023", "daCaricare" : true};
 matchs['WL-960-3'] = {"id":"", "lega":"1WL-960", "giornata":3, "data":"05/03/2023", "daCaricare" : true};
 matchs['WL-960-4'] = {"id":"", "lega":"1WL-960", "giornata":4, "data":"02/04/2023", "daCaricare" : true};
 matchs['WL-960-5'] = {"id":"", "lega":"1WL-960", "giornata":5, "data":"07/05/2023", "daCaricare" : true};
@@ -20,7 +20,7 @@ matchs['WL-960-9'] = {"id":"", "lega":"1WL-960", "giornata":9, "data":"03/09/202
 
 // 1WL-OPEN
 matchs['WL-OPEN-1'] = {"id":"1449831", "lega":"1WL-OPEN", "giornata":1, "data":"08/01/2023", "daCaricare" : true};
-matchs['WL-OPEN-2'] = {"id":"", "lega":"1WL-OPEN", "giornata":2, "data":"13/02/2022", "daCaricare" : true};
+matchs['WL-OPEN-2'] = {"id":"1460163", "lega":"1WL-OPEN", "giornata":2, "data":"12/02/2022", "daCaricare" : true};
 matchs['WL-OPEN-3'] = {"id":"", "lega":"1WL-OPEN", "giornata":3, "data":"13/03/2022", "daCaricare" : true};
 matchs['WL-OPEN-4'] = {"id":"", "lega":"1WL-OPEN", "giornata":4, "data":"10/04/2022", "daCaricare" : true};
 matchs['WL-OPEN-5'] = {"id":"", "lega":"1WL-OPEN", "giornata":5, "data":"08/05/2022", "daCaricare" : true};
@@ -30,7 +30,8 @@ matchs['WL-OPEN-8'] = {"id":"", "lega":"1WL-OPEN", "giornata":8, "data":"14/08/2
 matchs['WL-OPEN-9'] = {"id":"", "lega":"1WL-OPEN", "giornata":9, "data":"11/09/2022", "daCaricare" : true};
 
 // 1WL-1800
-matchs['WL-1800-1'] = {"id":"1451707", "lega":"1WL-1800", "giornata":1, "data":"15/01/2023", "daCaricare" : true};
+//matchs['WL-1800-1'] = {"id":"0", "lega":"1WL-1800", "giornata":1, "data":"15/01/2023", "daCaricare" : true,
+//"avversarioName":"Purple Haze", "nameUrl" : "purple-haze","risultato":"Vinta forfait", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""};  
 matchs['WL-1800-2'] = {"id":"", "lega":"1WL-1800", "giornata":2, "data":"//2023", "daCaricare" : true};
 matchs['WL-1800-3'] = {"id":"", "lega":"1WL-1800", "giornata":3, "data":"//2023", "daCaricare" : true};
 matchs['WL-1800-4'] = {"id":"", "lega":"1WL-1800", "giornata":4, "data":"//2023", "daCaricare" : true};
