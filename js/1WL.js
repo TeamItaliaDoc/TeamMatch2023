@@ -32,7 +32,7 @@ matchs['WL-OPEN-9'] = {"id":"", "lega":"1WL-OPEN", "giornata":9, "data":"11/09/2
 // 1WL-1800
 //matchs['WL-1800-1'] = {"id":"0", "lega":"1WL-1800", "giornata":1, "data":"15/01/2023", "daCaricare" : true,
 //"avversarioName":"Purple Haze", "nameUrl" : "purple-haze","risultato":"Vinta forfait", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""};  
-matchs['WL-1800-2'] = {"id":"", "lega":"1WL-1800", "giornata":2, "data":"//2023", "daCaricare" : true};
+matchs['WL-1800-2'] = {"id":"1462265", "lega":"1WL-1800", "giornata":2, "data":"//2023", "daCaricare" : true};
 matchs['WL-1800-3'] = {"id":"", "lega":"1WL-1800", "giornata":3, "data":"//2023", "daCaricare" : true};
 matchs['WL-1800-4'] = {"id":"", "lega":"1WL-1800", "giornata":4, "data":"//2023", "daCaricare" : true};
 matchs['WL-1800-5'] = {"id":"", "lega":"1WL-1800", "giornata":5, "data":"//2023", "daCaricare" : true};
@@ -60,7 +60,7 @@ matchs['WL-1600-13'] = {"id":"", "lega":"1WL-1600", "giornata":13, "data":"//202
 
 // 1WL-1400
 matchs['WL-1400-1'] = {"id":"1451545", "lega":"1WL-1400", "giornata":1, "data":"15/01/2023", "daCaricare" : true};
-matchs['WL-1400-2'] = {"id":"", "lega":"1WL-1400", "giornata":2, "data":"//2023", "daCaricare" : true};
+matchs['WL-1400-2'] = {"id":"1462213", "lega":"1WL-1400", "giornata":2, "data":"19/02/2023", "daCaricare" : true};
 matchs['WL-1400-3'] = {"id":"", "lega":"1WL-1400", "giornata":3, "data":"//2023", "daCaricare" : true};
 matchs['WL-1400-4'] = {"id":"", "lega":"1WL-1400", "giornata":4, "data":"//2023", "daCaricare" : true};
 matchs['WL-1400-5'] = {"id":"", "lega":"1WL-1400", "giornata":5, "data":"//2023", "daCaricare" : true};
