@@ -30,8 +30,8 @@ matchs['WL-OPEN-8'] = {"id":"", "lega":"1WL-OPEN", "giornata":8, "data":"14/08/2
 matchs['WL-OPEN-9'] = {"id":"", "lega":"1WL-OPEN", "giornata":9, "data":"11/09/2022", "daCaricare" : true};
 
 // 1WL-1800
-//matchs['WL-1800-1'] = {"id":"0", "lega":"1WL-1800", "giornata":1, "data":"15/01/2023", "daCaricare" : true,
-//"avversarioName":"Purple Haze", "nameUrl" : "purple-haze","risultato":"Vinta forfait", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""};  
+matchs['WL-1800-1'] = {"id":"0", "lega":"1WL-1800", "giornata":1, "data":"15/01/2023", "daCaricare" : true,
+"avversarioName":"PURPLE HAZE", "nameUrl" : "purple-haze","risultato":"Vinta forfait", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""};  
 matchs['WL-1800-2'] = {"id":"1462265", "lega":"1WL-1800", "giornata":2, "data":"//2023", "daCaricare" : true};
 matchs['WL-1800-3'] = {"id":"", "lega":"1WL-1800", "giornata":3, "data":"//2023", "daCaricare" : true};
 matchs['WL-1800-4'] = {"id":"", "lega":"1WL-1800", "giornata":4, "data":"//2023", "daCaricare" : true};
@@ -82,7 +82,6 @@ matchs['WL-1200-9'] = {"id":"", "lega":"1WL-1200", "giornata":9, "data":"//2023"
 matchs['WL-1200-10'] = {"id":"", "lega":"1WL-1200", "giornata":10, "data":"//2023", "daCaricare" : true};
 matchs['WL-1200-11'] = {"id":"", "lega":"1WL-1200", "giornata":11, "data":"//2023", "daCaricare" : true};
 
-/*
 // OPEN-A
 matchs['WL-OPEN-A-1'] = {"id":"", "lega":"1WL-OPEN-A", "giornata":1, "data":"27/02/2022", "daCaricare" : true};
 matchs['WL-OPEN-A-2'] = {"id":"", "lega":"1WL-OPEN-A", "giornata":2, "data":"27/03/2022", "daCaricare" : true};
@@ -140,5 +139,3 @@ matchs['1WL-960Classic-2'] = {"id":"", "lega":"1WL-960Classic", "giornata":2, "d
 matchs['1WL-960Classic-3'] = {"id":"", "lega":"1WL-960Classic", "giornata":3, "data":"16/10/2022", "daCaricare" : true};
 matchs['1WL-960Classic-4'] = {"id":"", "lega":"1WL-960Classic", "giornata":4, "data":"06/11/2022", "daCaricare" : true};
 matchs['1WL-960Classic-5'] = {"id":"", "lega":"1WL-960Classic", "giornata":5, "data":"20/11/2022", "daCaricare" : true};
-
-*/
