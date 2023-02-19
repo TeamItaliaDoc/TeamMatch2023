@@ -9,8 +9,9 @@ matchs['WL-CUP-1700-1-5'] = {"id":"", "lega":"1WL-CUP-1700", "giornata":5, "data
 
 // 1WL-960   
 matchs['WL-960-1'] = {"id":"1447335", "lega":"1WL-960", "giornata":1, "data":"01/01/2023", "daCaricare" : true};
-matchs['WL-960-2'] = {"id":"1458195", "lega":"1WL-960", "giornata":2, "data":"05/02/2023", "daCaricare" : true};
-matchs['WL-960-3'] = {"id":"", "lega":"1WL-960", "giornata":3, "data":"05/03/2023", "daCaricare" : true};
+matchs['WL-960-2'] = {"id":"0", "lega":"1WL-960", "giornata":2, "data":"05/02/2023", "daCaricare" : true,
+"avversarioName":"", "nameUrl" : "","risultato":"Vinta forfait", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""};  
+matchs['WL-960-3'] = {"id":"1466189", "lega":"1WL-960", "giornata":3, "data":"05/03/2023", "daCaricare" : true};
 matchs['WL-960-4'] = {"id":"", "lega":"1WL-960", "giornata":4, "data":"02/04/2023", "daCaricare" : true};
 matchs['WL-960-5'] = {"id":"", "lega":"1WL-960", "giornata":5, "data":"07/05/2023", "daCaricare" : true};
 matchs['WL-960-6'] = {"id":"", "lega":"1WL-960", "giornata":6, "data":"04/06/2023", "daCaricare" : true};
@@ -32,7 +33,9 @@ matchs['WL-OPEN-9'] = {"id":"", "lega":"1WL-OPEN", "giornata":9, "data":"11/09/2
 // 1WL-1800
 matchs['WL-1800-1'] = {"id":"0", "lega":"1WL-1800", "giornata":1, "data":"15/01/2023", "daCaricare" : true,
 "avversarioName":"PURPLE HAZE", "nameUrl" : "purple-haze","risultato":"Vinta forfait", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""};  
-matchs['WL-1800-2'] = {"id":"1462265", "lega":"1WL-1800", "giornata":2, "data":"//2023", "daCaricare" : true};
+//Team nicaragua
+matchs['WL-1800-2'] = {"id":"0", "lega":"1WL-1800", "giornata":2, "data":"19/02/2023", "daCaricare" : true,
+"avversarioName":"", "nameUrl" : "","risultato":"Vinta forfait", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""};  
 matchs['WL-1800-3'] = {"id":"", "lega":"1WL-1800", "giornata":3, "data":"//2023", "daCaricare" : true};
 matchs['WL-1800-4'] = {"id":"", "lega":"1WL-1800", "giornata":4, "data":"//2023", "daCaricare" : true};
 matchs['WL-1800-5'] = {"id":"", "lega":"1WL-1800", "giornata":5, "data":"//2023", "daCaricare" : true};
