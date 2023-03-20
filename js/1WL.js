@@ -12,7 +12,7 @@ matchs['WL-960-1'] = {"id":"1447335", "lega":"1WL-960", "giornata":1, "data":"01
 matchs['WL-960-2'] = {"id":"0", "lega":"1WL-960", "giornata":2, "data":"05/02/2023", "daCaricare" : true,
 "avversarioName":"", "nameUrl" : "","risultato":"Vinta forfait", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""};  
 matchs['WL-960-3'] = {"id":"1466189", "lega":"1WL-960", "giornata":3, "data":"05/03/2023", "daCaricare" : true};
-matchs['WL-960-4'] = {"id":"", "lega":"1WL-960", "giornata":4, "data":"02/04/2023", "daCaricare" : true};
+matchs['WL-960-4'] = {"id":"1474895", "lega":"1WL-960", "giornata":4, "data":"02/04/2023", "daCaricare" : true};
 matchs['WL-960-5'] = {"id":"", "lega":"1WL-960", "giornata":5, "data":"07/05/2023", "daCaricare" : true};
 matchs['WL-960-6'] = {"id":"", "lega":"1WL-960", "giornata":6, "data":"04/06/2023", "daCaricare" : true};
 matchs['WL-960-7'] = {"id":"", "lega":"1WL-960", "giornata":7, "data":"02/07/2023", "daCaricare" : true};
@@ -87,7 +87,7 @@ matchs['WL-1200-11'] = {"id":"", "lega":"1WL-1200", "giornata":11, "data":"//202
 
 // OPEN-A
 matchs['WL-OPEN-A-1'] = {"id":"1467009", "lega":"1WL-OPEN-A", "giornata":1, "data":"05/03/2023", "daCaricare" : true};
-matchs['WL-OPEN-A-2'] = {"id":"", "lega":"1WL-OPEN-A", "giornata":2, "data":"//2023", "daCaricare" : true};
+matchs['WL-OPEN-A-2'] = {"id":"1475347", "lega":"1WL-OPEN-A", "giornata":2, "data":"02/04/2023", "daCaricare" : true};
 matchs['WL-OPEN-A-2'] = {"id":"", "lega":"1WL-OPEN-A", "giornata":4, "data":"//2023", "daCaricare" : true};
 matchs['WL-OPEN-A-4'] = {"id":"", "lega":"1WL-OPEN-A", "giornata":3, "data":"//2023", "daCaricare" : true};
 matchs['WL-OPEN-A-5'] = {"id":"", "lega":"1WL-OPEN-A", "giornata":5, "data":"//2023", "daCaricare" : true};
@@ -97,8 +97,9 @@ matchs['WL-OPEN-A-8'] = {"id":"", "lega":"1WL-OPEN-A", "giornata":8, "data":"//2
 matchs['WL-OPEN-A-9'] = {"id":"", "lega":"1WL-OPEN-A", "giornata":9, "data":"//2023", "daCaricare" : true};
 
 // OPEN-C1
+1475343
 matchs['WL-OPEN-C1-1'] = {"id":"1466675", "lega":"1WL-OPEN-C1", "giornata":1, "data":"05/03/2023", "daCaricare" : true};
-matchs['WL-OPEN-C1-2'] = {"id":"", "lega":"1WL-OPEN-C1", "giornata":2, "data":"//2023", "daCaricare" : true};
+matchs['WL-OPEN-C1-2'] = {"id":"1475343", "lega":"1WL-OPEN-C1", "giornata":2, "data":"02/04/2023", "daCaricare" : true};
 matchs['WL-OPEN-C1-3'] = {"id":"", "lega":"1WL-OPEN-C1", "giornata":3, "data":"//2023", "daCaricare" : true};
 matchs['WL-OPEN-C1-4'] = {"id":"", "lega":"1WL-OPEN-C1", "giornata":4, "data":"//2023", "daCaricare" : true};
 matchs['WL-OPEN-C1-5'] = {"id":"", "lega":"1WL-OPEN-C1", "giornata":5, "data":"//2023", "daCaricare" : true};
@@ -138,7 +139,7 @@ matchs['1WL-Swiss4All-7'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":7, "dat
 
 // 960 Classic - Open A
 matchs['1WL-960Classic-1'] = {"id":"", "lega":"1WL-960Classic", "giornata":1, "data":"18/09/2022", "daCaricare" : true};
-matchs['1WL-960Classic-2'] = {"id":"", "lega":"1WL-960Classic", "giornata":2, "data":"02/10/2022", "daCaricare" : true};
+matchs['1WL-960Classic-2'] = {"id":"", "lega":"1WL-960Classic", "giornata":2, "data":"02/04/2023", "daCaricare" : true};
 matchs['1WL-960Classic-3'] = {"id":"", "lega":"1WL-960Classic", "giornata":3, "data":"16/10/2022", "daCaricare" : true};
 matchs['1WL-960Classic-4'] = {"id":"", "lega":"1WL-960Classic", "giornata":4, "data":"06/11/2022", "daCaricare" : true};
 matchs['1WL-960Classic-5'] = {"id":"", "lega":"1WL-960Classic", "giornata":5, "data":"20/11/2022", "daCaricare" : true};
