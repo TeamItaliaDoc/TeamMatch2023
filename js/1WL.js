@@ -128,13 +128,13 @@ matchs['WL-U15-8'] = {"id":"", "lega":"1WL-U15", "giornata":8, "data":"05/02/202
 matchs['WL-U15-9'] = {"id":"", "lega":"1WL-U15", "giornata":9, "data":"05/03/2023", "daCaricare" : true};
 
 //Swiss4All 
-matchs['1WL-Swiss4All-1'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":1, "data":"05/06/2022", "daCaricare" : true};
-matchs['1WL-Swiss4All-2'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":2, "data":"18/06/2022", "daCaricare" : true};
-matchs['1WL_Swiss4All-3'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":3, "data":"07/08/2022", "daCaricare" : true};
-matchs['1WL-Swiss4All-4'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":4, "data":"04/09/2022", "daCaricare" : true};
-matchs['1WL-Swiss4All-5'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":5, "data":"02/10/2022", "daCaricare" : true};
-matchs['1WL-Swiss4All-6'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":6, "data":"06/11/2022", "daCaricare" : true};
-matchs['1WL-Swiss4All-7'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":7, "data":"04/12/2022", "daCaricare" : true};
+matchs['1WL-Swiss4All-1'] = {"id":"1479925", "lega":"1WL-Swiss4All", "giornata":1, "data":"16/04/2023", "daCaricare" : true};
+matchs['1WL-Swiss4All-2'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":2, "data":"18/06/2023", "daCaricare" : true};
+matchs['1WL_Swiss4All-3'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":3, "data":"//2023", "daCaricare" : true};
+matchs['1WL-Swiss4All-4'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":4, "data":"//2023", "daCaricare" : true};
+matchs['1WL-Swiss4All-5'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":5, "data":"//2023", "daCaricare" : true};
+matchs['1WL-Swiss4All-6'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":6, "data":"//2023", "daCaricare" : true};
+matchs['1WL-Swiss4All-7'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":7, "data":"//2023", "daCaricare" : true};
 
 // 960 Classic - Open A
 matchs['1WL-960Classic-1'] = {"id":"", "lega":"1WL-960Classic", "giornata":1, "data":"18/09/2022", "daCaricare" : true};
