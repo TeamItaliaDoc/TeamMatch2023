@@ -1,5 +1,8 @@
 //1437425 - https://www.chess.com/clubs/forum/view/u1700-cup-2023-24
 
+
+// U1300 - AGGIUNGERE 1486743   ??????????
+
 // Classi CUP 1700
 matchs['WL-CUP-1700-1-1'] = {"id":"1437425", "lega":"1WL-CUP-1700", "giornata":1, "data":"27/11/2022", "daCaricare" : true};
 matchs['WL-CUP-1700-1-2'] = {"id":"1445391", "lega":"1WL-CUP-1700", "giornata":2, "data":"25/12/2022", "daCaricare" : true};
@@ -13,7 +16,7 @@ matchs['WL-960-2'] = {"id":"0", "lega":"1WL-960", "giornata":2, "data":"05/02/20
 "avversarioName":"", "nameUrl" : "","risultato":"Vinta forfait", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""};  
 matchs['WL-960-3'] = {"id":"1466189", "lega":"1WL-960", "giornata":3, "data":"05/03/2023", "daCaricare" : true};
 matchs['WL-960-4'] = {"id":"1474895", "lega":"1WL-960", "giornata":4, "data":"02/04/2023", "daCaricare" : true};
-matchs['WL-960-5'] = {"id":"", "lega":"1WL-960", "giornata":5, "data":"07/05/2023", "daCaricare" : true};
+matchs['WL-960-5'] = {"id":"1487009", "lega":"1WL-960", "giornata":5, "data":"07/05/2023", "daCaricare" : true};
 matchs['WL-960-6'] = {"id":"", "lega":"1WL-960", "giornata":6, "data":"04/06/2023", "daCaricare" : true};
 matchs['WL-960-7'] = {"id":"", "lega":"1WL-960", "giornata":7, "data":"02/07/2023", "daCaricare" : true};
 matchs['WL-960-8'] = {"id":"", "lega":"1WL-960", "giornata":8, "data":"06/08/2023", "daCaricare" : true};
@@ -65,7 +68,7 @@ matchs['WL-1600-13'] = {"id":"", "lega":"1WL-1600", "giornata":13, "data":"//202
 // 1WL-1400
 matchs['WL-1400-1'] = {"id":"1451545", "lega":"1WL-1400", "giornata":1, "data":"15/01/2023", "daCaricare" : true};
 matchs['WL-1400-2'] = {"id":"1462213", "lega":"1WL-1400", "giornata":2, "data":"19/02/2023", "daCaricare" : true};
-matchs['WL-1400-3'] = {"id":"", "lega":"1WL-1400", "giornata":3, "data":"//2023", "daCaricare" : true};
+matchs['WL-1400-3'] = {"id":"1485401", "lega":"1WL-1400", "giornata":3, "data":"30/04/2023", "daCaricare" : true};
 matchs['WL-1400-4'] = {"id":"", "lega":"1WL-1400", "giornata":4, "data":"//2023", "daCaricare" : true};
 matchs['WL-1400-5'] = {"id":"", "lega":"1WL-1400", "giornata":5, "data":"//2023", "daCaricare" : true};
 matchs['WL-1400-6'] = {"id":"", "lega":"1WL-1400", "giornata":6, "data":"//2023", "daCaricare" : true};
