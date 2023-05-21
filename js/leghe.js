@@ -40,7 +40,7 @@ matchs['CCT-CEN-9'] = {"id":"", "lega":"CCT-CEN", "giornata":9, "data":"//2022",
 matchs['KTML-33-1'] = {"id":"", "lega":"KTML-33", "giornata":1, "data":"01/05/2022", "daCaricare" : true};
 matchs['KTML-33-2'] = {"id":"", "lega":"KTML-33", "giornata":2, "data":"03/11/2022", "daCaricare" : true};
 matchs['KTML-33-3'] = {"id":"", "lega":"KTML-33", "giornata":3, "data":"01/03/2022", "daCaricare" : true};  
-matchs['KTML-33-4'] = {"id":"", "lega":"KTML-33", "giornata":5, "data":"01/05/2022", "daCaricare" : true};
+matchs['KTML-33-4'] = {"id":"", "lega":"KTML-33", "giornata":4, "data":"01/05/2022", "daCaricare" : true};
 //ULF
 matchs['ULF-1'] = {"id":"", "lega":"ULF", "giornata":1, "data":"07/02/2022", "daCaricare" : true};
 matchs['ULF-2'] = {"id":"", "lega":"ULF", "giornata":2, "data":"//2022", "daCaricare" : true};
