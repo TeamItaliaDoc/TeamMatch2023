@@ -1,8 +1,13 @@
-//KTML 32
+//KTML 35
 matchs['KTML-35-1'] = {"id":"1442621", "lega":"KTML-35", "giornata":1, "data":"09/12/2022", "daCaricare" : true};
 matchs['KTML-35-2'] = {"id":"", "lega":"KTML-35", "giornata":2, "data":"//2022", "daCaricare" : true};
 matchs['KTML-35-3'] = {"id":"", "lega":"KTML-35", "giornata":3, "data":"//2022", "daCaricare" : true};  
 matchs['KTML-35-4'] = {"id":"", "lega":"KTML-35", "giornata":5, "data":"//2022", "daCaricare" : true};
+
+//KTML 37
+matchs['KTML-37-1'] = {"id":"1503667", "lega":"KTML-37", "giornata":1, "data":"21/06/2023", "daCaricare" : true};
+matchs['KTML-37-2'] = {"id":"", "lega":"KTML-35", "giornata":2, "data":"//2022", "daCaricare" : true};
+
 //TMLC
 matchs['TMLC-1'] = {"id":"1448035", "lega":"TMLC", "giornata":1, "data":"01/01/2023", "daCaricare" : true};
 matchs['TMLC-2'] = {"id":"1457633", "lega":"TMLC", "giornata":2, "data":"01/02/2023", "daCaricare" : true};
@@ -85,7 +90,7 @@ matchs['AMICI-18'] = {"id":"1490135", "lega":"AMICI", "giornata":1, "data":"14/0
 matchs['AMICI-19'] = {"id":"1494101", "lega":"AMICI", "giornata":1, "data":"16/05/2023", "daCaricare" : true};
 matchs['AMICI-20'] = {"id":"1502357", "lega":"AMICI", "giornata":1, "data":"16/06/2023", "daCaricare" : true};
 matchs['AMICI-21'] = {"id":"1502671", "lega":"AMICI", "giornata":1, "data":"21/06/2023", "daCaricare" : true};
-matchs['AMICI-22'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2023", "daCaricare" : true};
+matchs['AMICI-22'] = {"id":"1505565", "lega":"AMICI", "giornata":1, "data":"30/06/2023", "daCaricare" : true};
 matchs['AMICI-23'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2023", "daCaricare" : true};
 matchs['AMICI-24'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2023", "daCaricare" : true};
 matchs['AMICI-25'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2023", "daCaricare" : true};
