@@ -38,7 +38,7 @@ matchs['WL-1800-3'] = {"id":"1484377", "lega":"1WL-1800", "giornata":3, "data":"
 matchs['WL-1800-4'] = {"id":"1491857", "lega":"1WL-1800", "giornata":4, "data":"21/05/2023", "daCaricare" : true};
 matchs['WL-1800-5'] = {"id":"1496357", "lega":"1WL-1800", "giornata":5, "data":"04/06/2023", "daCaricare" : true};
 matchs['WL-1800-6'] = {"id":"1500635", "lega":"1WL-1800", "giornata":6, "data":"18/06//2023", "daCaricare" : true};
-matchs['WL-1800-7'] = {"id":"", "lega":"1WL-1800", "giornata":7, "data":"//2023", "daCaricare" : true};
+matchs['WL-1800-7'] = {"id":"1510069", "lega":"1WL-1800", "giornata":7, "data":"16/07/2023", "daCaricare" : true};
 matchs['WL-1800-8'] = {"id":"", "lega":"1WL-1800", "giornata":8, "data":"//2023", "daCaricare" : true};
 matchs['WL-1800-9'] = {"id":"", "lega":"1WL-1800", "giornata":9, "data":"//2023", "daCaricare" : true};
 
@@ -67,7 +67,7 @@ matchs['WL-1400-3'] = {"id":"1485401", "lega":"1WL-1400", "giornata":3, "data":"
 matchs['WL-1400-4'] = {"id":"1491931", "lega":"1WL-1400", "giornata":4, "data":"21/05/2023", "daCaricare" : true};
 matchs['WL-1400-5'] = {"id":"1496355", "lega":"1WL-1400", "giornata":5, "data":"04/06/2023", "daCaricare" : true};
 matchs['WL-1400-6'] = {"id":"1500633", "lega":"1WL-1400", "giornata":6, "data":"18/06//2023", "daCaricare" : true};
-matchs['WL-1400-7'] = {"id":"", "lega":"1WL-1400", "giornata":7, "data":"//2023", "daCaricare" : true};
+matchs['WL-1400-7'] = {"id":"1509705", "lega":"1WL-1400", "giornata":7, "data":"16/07/2023", "daCaricare" : true};
 matchs['WL-1400-8'] = {"id":"", "lega":"1WL-1400", "giornata":8, "data":"//2023", "daCaricare" : true};
 matchs['WL-1400-9'] = {"id":"", "lega":"1WL-1400", "giornata":9, "data":"//2023", "daCaricare" : true};
 
@@ -130,7 +130,7 @@ matchs['WL-U15-9'] = {"id":"", "lega":"1WL-U15", "giornata":9, "data":"05/03/202
 matchs['1WL-Swiss4All-1'] = {"id":"1479925", "lega":"1WL-Swiss4All", "giornata":1, "data":"16/04/2023", "daCaricare" : true};
 matchs['1WL-Swiss4All-2'] = {"id":"1491849", "lega":"1WL-Swiss4All", "giornata":2, "data":"21/05/2023", "daCaricare" : true};
 matchs['1WL_Swiss4All-3'] = {"id":"1501119", "lega":"1WL-Swiss4All", "giornata":3, "data":"18/06/2023", "daCaricare" : true};
-matchs['1WL-Swiss4All-4'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":4, "data":"//2023", "daCaricare" : true};
+matchs['1WL-Swiss4All-4'] = {"id":"1509775", "lega":"1WL-Swiss4All", "giornata":4, "data":"16/07/2023", "daCaricare" : true};
 matchs['1WL-Swiss4All-5'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":5, "data":"//2023", "daCaricare" : true};
 matchs['1WL-Swiss4All-6'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":6, "data":"//2023", "daCaricare" : true};
 matchs['1WL-Swiss4All-7'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":7, "data":"//2023", "daCaricare" : true};
@@ -146,7 +146,7 @@ matchs['1WL-960Classic-5'] = {"id":"", "lega":"1WL-960Classic", "giornata":5, "d
 matchs['1WL-CLA1700-1'] = {"id":"1487611", "lega":"1WL-CLA1700", "giornata":1, "data":"07/05/2023", "daCaricare" : true};
 matchs['1WL-CLA1700-2'] = {"id":"1496353", "lega":"1WL-CLA1700", "giornata":2, "data":"04/06/2023", "daCaricare" : true};
 matchs['1WL-CLA1700-3'] = {"id":"1506169", "lega":"1WL-CLA1700", "giornata":3, "data":"02/07/2023", "daCaricare" : true};
-matchs['1WL-CLA1700-4'] = {"id":"", "lega":"1WL-CLA1700", "giornata":4, "data":"/08/2023", "daCaricare" : true};
+matchs['1WL-CLA1700-4'] = {"id":"1510321", "lega":"1WL-CLA1700", "giornata":4, "data":"12/007/2023", "daCaricare" : true};
 matchs['1WL-CLA1700-5'] = {"id":"", "lega":"1WL-CLA1700", "giornata":5, "data":"/09/2023", "daCaricare" : true};
 
 // Classic - U1300
