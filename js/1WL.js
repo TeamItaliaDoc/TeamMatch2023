@@ -51,8 +51,9 @@ matchs['WL-1600-2'] = {"id":"1482243", "lega":"1WL-1600", "giornata":2, "data":"
 matchs['WL-1600-3'] = {"id":"1490035", "lega":"1WL-1600", "giornata":3, "data":"14/05/2023", "daCaricare" : true};
 matchs['WL-1600-4'] = {"id":"1493995", "lega":"1WL-1600", "giornata":4, "data":"28/05/2023", "daCaricare" : true};
 matchs['WL-1600-5'] = {"id":"1498513", "lega":"1WL-1600", "giornata":5, "data":"11/06/2023", "daCaricare" : true};
-matchs['WL-1600-6'] = {"id":"", "lega":"1WL-1600", "giornata":6, "data":"//2023", "daCaricare" : true};
-matchs['WL-1600-7'] = {"id":"", "lega":"1WL-1600", "giornata":7, "data":"//2023", "daCaricare" : true};
+matchs['WL-1600-6'] = {"id":"0", "lega":"1WL-1600", "giornata":6, "data":"", "daCaricare" : true,
+"avversarioName":"","risultato":"Bye", "risultatoStyle" :"color:black", "giocatori":"", "score":"", "url" : ""}; 
+matchs['WL-1600-7'] = {"id":"1511883", "lega":"1WL-1600", "giornata":7, "data":"23/07/2023", "daCaricare" : true};
 matchs['WL-1600-8'] = {"id":"", "lega":"1WL-1600", "giornata":8, "data":"//2023", "daCaricare" : true};
 matchs['WL-1600-9'] = {"id":"", "lega":"1WL-1600", "giornata":9, "data":"//2023", "daCaricare" : true};
 matchs['WL-1600-10'] = {"id":"", "lega":"1WL-1600", "giornata":10, "data":"//2023", "daCaricare" : true};
