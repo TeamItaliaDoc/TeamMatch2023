@@ -56,7 +56,7 @@ matchs['WL-1600-5'] = {"id":"1498513", "lega":"1WL-1600", "giornata":5, "data":"
 matchs['WL-1600-6'] = {"id":"0", "lega":"1WL-1600", "giornata":6, "data":"", "daCaricare" : true,
 "avversarioName":"","risultato":"Bye", "risultatoStyle" :"color:black", "giocatori":"", "score":"", "url" : ""}; 
 matchs['WL-1600-7'] = {"id":"1511883", "lega":"1WL-1600", "giornata":7, "data":"23/07/2023", "daCaricare" : true};
-matchs['WL-1600-8'] = {"id":"", "lega":"1WL-1600", "giornata":8, "data":"//2023", "daCaricare" : true};
+matchs['WL-1600-8'] = {"id":"1522593", "lega":"1WL-1600", "giornata":8, "data":"27/08/2023", "daCaricare" : true};
 matchs['WL-1600-9'] = {"id":"", "lega":"1WL-1600", "giornata":9, "data":"//2023", "daCaricare" : true};
 matchs['WL-1600-10'] = {"id":"", "lega":"1WL-1600", "giornata":10, "data":"//2023", "daCaricare" : true};
 matchs['WL-1600-11'] = {"id":"", "lega":"1WL-1600", "giornata":11, "data":"//2023", "daCaricare" : true};
@@ -81,8 +81,9 @@ matchs['WL-1200-3'] = {"id":"1489387", "lega":"1WL-1200", "giornata":3, "data":"
 matchs['WL-1200-4'] = {"id":"1494575", "lega":"1WL-1200", "giornata":4, "data":"28/05/2023", "daCaricare" : true};
 matchs['WL-1200-5'] = {"id":"1499377", "lega":"1WL-1200", "giornata":5, "data":"11/06/20232", "daCaricare" : true};
 matchs['WL-1200-6'] = {"id":"1503669", "lega":"1WL-1200", "giornata":6, "data":"25/06/2023", "daCaricare" : true};
-matchs['WL-1200-7'] = {"id":"", "lega":"1WL-1200", "giornata":7, "data":"//2023", "daCaricare" : true};
-matchs['WL-1200-8'] = {"id":"", "lega":"1WL-1200", "giornata":8, "data":"//2023", "daCaricare" : true};
+matchs['WL-1200-7'] = {"id":"", "lega":"1WL-1200", "giornata":7, "data":"//2023", "daCaricare" : true,
+"avversarioName":"","risultato":"Bye", "risultatoStyle" :"color:black", "giocatori":"", "score":"", "url" : ""};  
+matchs['WL-1200-8'] = {"id":"1522385", "lega":"1WL-1200", "giornata":8, "data":"27/08/2023", "daCaricare" : true};
 matchs['WL-1200-9'] = {"id":"", "lega":"1WL-1200", "giornata":9, "data":"//2023", "daCaricare" : true};
 matchs['WL-1200-10'] = {"id":"", "lega":"1WL-1200", "giornata":10, "data":"//2023", "daCaricare" : true};
 matchs['WL-1200-11'] = {"id":"", "lega":"1WL-1200", "giornata":11, "data":"//2023", "daCaricare" : true};
