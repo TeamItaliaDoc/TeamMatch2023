@@ -29,6 +29,7 @@ matchs['WL-OPEN-8'] = {"id":"1507567", "lega":"1WL-OPEN", "giornata":8, "data":"
 matchs['WL-OPEN-9'] = {"id":"0", "lega":"1WL-OPEN", "giornata":9, "data":"30/07/2023", "daCaricare" : true,
 "avversarioName":"","risultato":"Bye", "risultatoStyle" :"color:black", "giocatori":"", "score":"", "url" : ""}; 
 matchs['WL-OPEN-10'] = {"id":"1518047", "lega":"1WL-OPEN", "giornata":10, "data":"08/08/2023", "daCaricare" : true};
+matchs['WL-OPEN-11'] = {"id":"1526837", "lega":"1WL-OPEN", "giornata":11, "data":"10/09/2023", "daCaricare" : true};
 
 // 1WL-1800
 matchs['WL-1800-1'] = {"id":"0", "lega":"1WL-1800", "giornata":1, "data":"15/01/2023", "daCaricare" : true,
@@ -139,7 +140,7 @@ matchs['1WL-Swiss4All-5'] = {"id":"1520399", "lega":"1WL-Swiss4All", "giornata":
 matchs['1WL-Swiss4All-6'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":6, "data":"//2023", "daCaricare" : true};
 matchs['1WL-Swiss4All-7'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":7, "data":"//2023", "daCaricare" : true};
 
-// 960 Classic - Open A
+// 960 Classic - Open Afv
 matchs['1WL-960Classic-1'] = {"id":"", "lega":"1WL-960Classic", "giornata":1, "data":"07/05/2023", "daCaricare" : true};
 matchs['1WL-960Classic-2'] = {"id":"", "lega":"1WL-960Classic", "giornata":2, "data":"02/04/2023", "daCaricare" : true};
 matchs['1WL-960Classic-3'] = {"id":"", "lega":"1WL-960Classic", "giornata":3, "data":"16/10/2023", "daCaricare" : true};
@@ -161,3 +162,7 @@ matchs['1WL-CLA1300-4'] = {"id":"1515911", "lega":"1WL-CLA1300", "giornata":4, "
 matchs['1WL-CLA1300-5'] = {"id":"1524683", "lega":"1WL-CLA1300", "giornata":5, "data":"03/09/2023", "daCaricare" : true};
 matchs['1WL-CLA1300-6'] = {"id":"", "lega":"1WL-CLA1300", "giornata":6, "data":"/10/2023", "daCaricare" : true};
 matchs['1WL-CLA1300-7'] = {"id":"", "lega":"1WL-CLA1300", "giornata":7, "data":"/11/2023", "daCaricare" : true};
+
+
+//--- 2024
+//https://www.chess.com/club/matches/team-italia-doc/1526657
