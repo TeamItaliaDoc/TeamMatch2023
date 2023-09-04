@@ -21,8 +21,8 @@ matchs['TMCL-9'] = {"id":"", "lega":"TMCL", "giornata":9, "data":"01/09/2023", "
 
 //TMCL - 1700
 matchs['TMCL-1700-1'] = {"id":"1510321", "lega":"TMCL-1700", "giornata":1, "data":"12/07/2023", "daCaricare" : true};
-matchs['TMCL-1700--2'] = {"id":"", "lega":"TMCL-1700", "giornata":2, "data":"01/02/2023", "daCaricare" : true};
-matchs['TMCL-1700--3'] = {"id":"", "lega":"TMCL-1700", "giornata":3, "data":"01/03/2023", "daCaricare" : true};
+matchs['TMCL-1700--2'] = {"id":"1519767", "lega":"TMCL-1700", "giornata":2, "data":"12/08/2023", "daCaricare" : true};
+matchs['TMCL-1700--3'] = {"id":"1528769", "lega":"TMCL-1700", "giornata":3, "data":"12/09/2023", "daCaricare" : true};
 matchs['TMCL-1700--4'] = {"id":"", "lega":"TMCL-1700", "giornata":4, "data":"01/04/2023", "daCaricare" : true};  
 matchs['TMCL-1700--5'] = {"id":"", "lega":"TMCL-1700", "giornata":5, "data":"01/05/2023", "daCaricare" : true};
 matchs['TMCL-1700--6'] = {"id":"", "lega":"TMCL-1700", "giornata":6, "data":"01/06/2023", "daCaricare" : true};

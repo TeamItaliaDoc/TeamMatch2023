@@ -1,3 +1,21 @@
+//--- 2024
+//--- 2024
+//--- 2024
+//--- 2024
+//--- 2024
+//https://www.chess.com/club/matches/team-italia-doc/1526657
+//--- 2024
+//--- 2024
+//--- 2024
+//--- 2024
+//--- 2024
+//--- 2024
+//--- 2024
+//--- 2024
+//--- 2024
+//--- 2024
+
+
 // Classi CUP 1700
 matchs['WL-CUP-1700-1-1'] = {"id":"1437425", "lega":"1WL-CUP-1700", "giornata":1, "data":"27/11/2022", "daCaricare" : true};
 matchs['WL-CUP-1700-1-2'] = {"id":"1445391", "lega":"1WL-CUP-1700", "giornata":2, "data":"25/12/2022", "daCaricare" : true};
@@ -43,7 +61,7 @@ matchs['WL-1800-5'] = {"id":"1496357", "lega":"1WL-1800", "giornata":5, "data":"
 matchs['WL-1800-6'] = {"id":"1500635", "lega":"1WL-1800", "giornata":6, "data":"18/06//2023", "daCaricare" : true};
 matchs['WL-1800-7'] = {"id":"1510069", "lega":"1WL-1800", "giornata":7, "data":"16/07/2023", "daCaricare" : true};
 matchs['WL-1800-8'] = {"id":"1520803", "lega":"1WL-1800", "giornata":8, "data":"20/08/2023", "daCaricare" : true};
-matchs['WL-1800-9'] = {"id":"", "lega":"1WL-1800", "giornata":9, "data":"//2023", "daCaricare" : true};
+matchs['WL-1800-9'] = {"id":"1528713", "lega":"1WL-1800", "giornata":9, "data":"17/09/2023", "daCaricare" : true};
 
 
 
@@ -137,7 +155,7 @@ matchs['1WL-Swiss4All-2'] = {"id":"1491849", "lega":"1WL-Swiss4All", "giornata":
 matchs['1WL_Swiss4All-3'] = {"id":"1501119", "lega":"1WL-Swiss4All", "giornata":3, "data":"18/06/2023", "daCaricare" : true};
 matchs['1WL-Swiss4All-4'] = {"id":"1509775", "lega":"1WL-Swiss4All", "giornata":4, "data":"16/07/2023", "daCaricare" : true};
 matchs['1WL-Swiss4All-5'] = {"id":"1520399", "lega":"1WL-Swiss4All", "giornata":5, "data":"20/08/2023", "daCaricare" : true};
-matchs['1WL-Swiss4All-6'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":6, "data":"//2023", "daCaricare" : true};
+matchs['1WL-Swiss4All-6'] = {"id":"1529353", "lega":"1WL-Swiss4All", "giornata":6, "data":"17/09/2023", "daCaricare" : true};
 matchs['1WL-Swiss4All-7'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":7, "data":"//2023", "daCaricare" : true};
 
 // 960 Classic - Open Afv
@@ -164,5 +182,3 @@ matchs['1WL-CLA1300-6'] = {"id":"", "lega":"1WL-CLA1300", "giornata":6, "data":"
 matchs['1WL-CLA1300-7'] = {"id":"", "lega":"1WL-CLA1300", "giornata":7, "data":"/11/2023", "daCaricare" : true};
 
 
-//--- 2024
-//https://www.chess.com/club/matches/team-italia-doc/1526657
