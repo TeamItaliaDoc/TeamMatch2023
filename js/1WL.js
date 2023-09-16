@@ -103,7 +103,7 @@ matchs['WL-1200-6'] = {"id":"1503669", "lega":"1WL-1200", "giornata":6, "data":"
 matchs['WL-1200-7'] = {"id":"", "lega":"1WL-1200", "giornata":7, "data":"//2023", "daCaricare" : true,
 "avversarioName":"","risultato":"Bye", "risultatoStyle" :"color:black", "giocatori":"", "score":"", "url" : ""};  
 matchs['WL-1200-8'] = {"id":"1522385", "lega":"1WL-1200", "giornata":8, "data":"27/08/2023", "daCaricare" : true};
-matchs['WL-1200-9'] = {"id":"", "lega":"1WL-1200", "giornata":9, "data":"//2023", "daCaricare" : true};
+matchs['WL-1200-9'] = {"id":"1530709", "lega":"1WL-1200", "giornata":9, "data":"24/09/2023", "daCaricare" : true};
 matchs['WL-1200-10'] = {"id":"", "lega":"1WL-1200", "giornata":10, "data":"//2023", "daCaricare" : true};
 matchs['WL-1200-11'] = {"id":"", "lega":"1WL-1200", "giornata":11, "data":"//2023", "daCaricare" : true};
 
