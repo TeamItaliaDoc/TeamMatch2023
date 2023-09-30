@@ -4,6 +4,7 @@
 //--- 2024
 //--- 2024
 //https://www.chess.com/club/matches/team-italia-doc/1526657
+//https://www.chess.com/club/matches/squadron-commandos/1536027
 //--- 2024
 //--- 2024
 //--- 2024
@@ -156,7 +157,7 @@ matchs['1WL_Swiss4All-3'] = {"id":"1501119", "lega":"1WL-Swiss4All", "giornata":
 matchs['1WL-Swiss4All-4'] = {"id":"1509775", "lega":"1WL-Swiss4All", "giornata":4, "data":"16/07/2023", "daCaricare" : true};
 matchs['1WL-Swiss4All-5'] = {"id":"1520399", "lega":"1WL-Swiss4All", "giornata":5, "data":"20/08/2023", "daCaricare" : true};
 matchs['1WL-Swiss4All-6'] = {"id":"1529353", "lega":"1WL-Swiss4All", "giornata":6, "data":"17/09/2023", "daCaricare" : true};
-matchs['1WL-Swiss4All-7'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":7, "data":"//2023", "daCaricare" : true};
+matchs['1WL-Swiss4All-7'] = {"id":"1536295", "lega":"1WL-Swiss4All", "giornata":7, "data":"15/10/2023", "daCaricare" : true};
 
 // 960 Classic - Open Afv
 matchs['1WL-960Classic-1'] = {"id":"", "lega":"1WL-960Classic", "giornata":1, "data":"07/05/2023", "daCaricare" : true};
@@ -178,7 +179,7 @@ matchs['1WL-CLA1300-2'] = {"id":"1497005", "lega":"1WL-CLA1300", "giornata":2, "
 matchs['1WL-CLA1300-3'] = {"id":"1505535", "lega":"1WL-CLA1300", "giornata":3, "data":"02/07/2023", "daCaricare" : true};
 matchs['1WL-CLA1300-4'] = {"id":"1515911", "lega":"1WL-CLA1300", "giornata":4, "data":"06/08/2023", "daCaricare" : true};
 matchs['1WL-CLA1300-5'] = {"id":"1524683", "lega":"1WL-CLA1300", "giornata":5, "data":"03/09/2023", "daCaricare" : true};
-matchs['1WL-CLA1300-6'] = {"id":"", "lega":"1WL-CLA1300", "giornata":6, "data":"/10/2023", "daCaricare" : true};
+matchs['1WL-CLA1300-6'] = {"id":"1533209", "lega":"1WL-CLA1300", "giornata":6, "data":"01/10/2023", "daCaricare" : true};
 matchs['1WL-CLA1300-7'] = {"id":"", "lega":"1WL-CLA1300", "giornata":7, "data":"/11/2023", "daCaricare" : true};
 
 
