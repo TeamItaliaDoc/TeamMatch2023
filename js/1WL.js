@@ -4,7 +4,8 @@
 //--- 2024
 //--- 2024
 //https://www.chess.com/club/matches/team-italia-doc/1526657
-//https://www.chess.com/club/matches/squadron-commandos/1536027
+//https://www.chess.com/club/matches/squadron-commandos/1536027   960 R1
+//https://www.chess.com/club/matches/european-chess-players/1539759 960 R2
 //--- 2024
 //--- 2024
 //--- 2024
@@ -180,6 +181,6 @@ matchs['1WL-CLA1300-3'] = {"id":"1505535", "lega":"1WL-CLA1300", "giornata":3, "
 matchs['1WL-CLA1300-4'] = {"id":"1515911", "lega":"1WL-CLA1300", "giornata":4, "data":"06/08/2023", "daCaricare" : true};
 matchs['1WL-CLA1300-5'] = {"id":"1524683", "lega":"1WL-CLA1300", "giornata":5, "data":"03/09/2023", "daCaricare" : true};
 matchs['1WL-CLA1300-6'] = {"id":"1533209", "lega":"1WL-CLA1300", "giornata":6, "data":"01/10/2023", "daCaricare" : true};
-matchs['1WL-CLA1300-7'] = {"id":"", "lega":"1WL-CLA1300", "giornata":7, "data":"/11/2023", "daCaricare" : true};
+matchs['1WL-CLA1300-7'] = {"id":"1541517", "lega":"1WL-CLA1300", "giornata":7, "data":"05/11/2023", "daCaricare" : true};
 
 
