@@ -6,6 +6,7 @@
 //https://www.chess.com/club/matches/team-italia-doc/1526657
 //https://www.chess.com/club/matches/squadron-commandos/1536027   960 R1
 //https://www.chess.com/club/matches/european-chess-players/1539759 960 R2
+//https://www.chess.com/club/matches/earthlings-united/1543133 960 R3
 //--- 2024
 //--- 2024
 //--- 2024
@@ -159,6 +160,7 @@ matchs['1WL-Swiss4All-4'] = {"id":"1509775", "lega":"1WL-Swiss4All", "giornata":
 matchs['1WL-Swiss4All-5'] = {"id":"1520399", "lega":"1WL-Swiss4All", "giornata":5, "data":"20/08/2023", "daCaricare" : true};
 matchs['1WL-Swiss4All-6'] = {"id":"1529353", "lega":"1WL-Swiss4All", "giornata":6, "data":"17/09/2023", "daCaricare" : true};
 matchs['1WL-Swiss4All-7'] = {"id":"1536295", "lega":"1WL-Swiss4All", "giornata":7, "data":"15/10/2023", "daCaricare" : true};
+matchs['1WL-Swiss4All-8'] = {"id":"1545195", "lega":"1WL-Swiss4All", "giornata":7, "data":"19/11/2023", "daCaricare" : true};
 
 // 960 Classic - Open Afv
 matchs['1WL-960Classic-1'] = {"id":"", "lega":"1WL-960Classic", "giornata":1, "data":"07/05/2023", "daCaricare" : true};
